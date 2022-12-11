@@ -1,0 +1,25 @@
+{
+  "name": "hw12",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "source": "index.html",
+  "scripts": {
+    "start":"parcel",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glorimax/hw12.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/glorimax/hw12/issues"
+  },
+  "homepage": "https://github.com/glorimax/hw12#readme",
+  "devDependencies": {
+    "parcel": "^2.8.1",
+    "sass": "^1.56.2"
+  }
+}
